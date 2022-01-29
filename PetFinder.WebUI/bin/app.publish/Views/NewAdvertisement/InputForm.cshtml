@@ -1,0 +1,86 @@
+﻿@model PetFinder.Domain.Entities.NewAdvertisement
+
+@{
+    ViewBag.Title = "PetFinder: форма объявления";
+}
+
+<h2>Добавление нового объявления</h2>
+<br />
+<h4>Пожалуйста заполните форму</h4>
+<br />
+
+@using (Html.BeginForm("InputForm", "NewAdvertisement",
+    FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    <div class="panel-body">
+
+        <div class="form-group">
+            <label>Выберите категорию:</label>
+            @Html.DropDownList("Category", new SelectList(new string[] { "Потерялось", "Нашлось" }, "Categories"))
+        </div>
+        <div class="form-group">
+            <label>Выберите животное:</label>
+            @Html.DropDownList("Pet", new SelectList(new string[] { "Собака", "Кот", "Хомяк", "Попугай" }, "Pets"))
+        </div>
+        <div>
+            <label>Выберите пол животного:</label>
+            @Html.DropDownList("Gender", new SelectList(new string[] { "Мальчик", "Девочка" }, "Genders"))
+        </div>
+        <br />
+        <label>Укажите адрес где потерялось/нашлось животное <br /> <br />Улица:</label>
+        @Html.TextBox("AddressStreet", null, new { @class = "form-control" })
+        @Html.ValidationMessage("AddressStreet")<br />
+
+        <label>Дом</label>
+        @Html.TextBox("AddressHouse", null, new { @class = "form-control" })
+        @Html.ValidationMessage("AddressHouse")<br />
+
+        <label>Краткое описание:</label>
+        @Html.TextArea("Description", null, new { @class = "form-control", rows = 5 })
+        @Html.ValidationMessage("Description")<br />
+
+        <label>Укажите адрес электронной почты: </label>
+        @Html.TextBox("Email", null, new { @class = "form-control" })
+        @Html.ValidationMessage("Email")<br />
+
+        @Html.EditorFor(model => model.SendMessage)
+        <label> Присылать сообщения о новых объявлениях</label><br />
+        <br />
+
+
+        <label>Укажите имя: </label>
+        @Html.TextBox("Name", null, new { @class = "form-control" })
+        @Html.ValidationMessage("Name")<br />
+
+        <label>Укажите номер телефона: </label>
+        @Html.TextBox("Phone", null, new { @class = "form-control phone_mask" })
+        <script>
+            $(".phone_mask").mask("+375(99)999-99-99");
+        </script>
+
+        @Html.ValidationMessage("Phone")<br />
+    </div>
+
+    <div class="form-group">
+        <div style="position:relative;">
+            <label>Добавить фото</label>
+            <a class='btn' href='javascript:;'>
+                Загрузить фото...
+                <input type="file" name="Image" size="40"
+                       style="position:absolute;z-index:2;top:0;
+                                left:0;filter: alpha(opacity=0); opacity:0;
+                                background-color:transparent;color:transparent;"
+                       onchange='$("#upload-file-info").html($(this).val());'>
+            </a>
+            <span class='label label-info' id="upload-file-info"></span>
+        </div>
+        <div>
+            <img class="preview" width="250" />
+        </div>
+    </div>
+
+    <div class="text-left">
+        <input class="btn btn-primary" type="submit" value="Опубликовать объявление" />
+    </div>
+
+}

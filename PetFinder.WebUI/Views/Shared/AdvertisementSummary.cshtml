@@ -1,0 +1,32 @@
+﻿@model PetFinder.Domain.Entities.Advertisement
+
+<div class="well">
+
+    @if (Model.ImageData != null)
+    {
+        <div class="pull-left" style="margin-right: 10px">
+            <img class="img-thumbnail" width="135" max-height="135"
+                 src="@Url.Action("GetImage", "Advertisement",
+                new { Model.AdvertisementID })" />
+        </div>
+    }
+    else
+    {
+        <div class="pull-left" style="margin-right: 10px">
+            <img class="img-thumbnail" width="135" height="135"
+                src="~/Content/Img/NoImage.jpg" />
+        </div>
+    }
+
+    <h3>
+        <strong>@Model.Category</strong>
+    </h3>
+    <h4>
+        <strong>@Model.Pet &nbsp; &ndash; &nbsp; @Model.Gender</strong>
+    </h4>
+    <p>Адрес где потерялось/нашлось: @Model.AddressStreet, @Model.AddressHouse </p>
+    <p>@Model.Description</p>
+    <p>Звонить по тел: +@Model.Phone, @Model.Name</p>
+
+
+</div>

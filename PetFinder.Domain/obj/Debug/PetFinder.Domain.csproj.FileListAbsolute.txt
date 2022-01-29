@@ -1,0 +1,69 @@
+B:\УЧЕБА\ДИПЛОМ СУКА\PetFinder\PetFinder.Domain\bin\Debug\PetFinder.Domain.dll
+B:\УЧЕБА\ДИПЛОМ СУКА\PetFinder\PetFinder.Domain\bin\Debug\PetFinder.Domain.pdb
+B:\УЧЕБА\ДИПЛОМ СУКА\PetFinder\PetFinder.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+B:\УЧЕБА\ДИПЛОМ СУКА\PetFinder\PetFinder.Domain\bin\Debug\System.Web.Helpers.dll
+B:\УЧЕБА\ДИПЛОМ СУКА\PetFinder\PetFinder.Domain\bin\Debug\System.Web.Mvc.dll
+B:\УЧЕБА\ДИПЛОМ СУКА\PetFinder\PetFinder.Domain\bin\Debug\System.Web.Razor.dll
+B:\УЧЕБА\ДИПЛОМ СУКА\PetFinder\PetFinder.Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+B:\УЧЕБА\ДИПЛОМ СУКА\PetFinder\PetFinder.Domain\bin\Debug\System.Web.WebPages.dll
+B:\УЧЕБА\ДИПЛОМ СУКА\PetFinder\PetFinder.Domain\bin\Debug\System.Web.WebPages.Razor.dll
+B:\УЧЕБА\ДИПЛОМ СУКА\PetFinder\PetFinder.Domain\bin\Debug\System.Web.Helpers.xml
+B:\УЧЕБА\ДИПЛОМ СУКА\PetFinder\PetFinder.Domain\bin\Debug\System.Web.Mvc.xml
+B:\УЧЕБА\ДИПЛОМ СУКА\PetFinder\PetFinder.Domain\bin\Debug\System.Web.Razor.xml
+B:\УЧЕБА\ДИПЛОМ СУКА\PetFinder\PetFinder.Domain\bin\Debug\System.Web.WebPages.xml
+B:\УЧЕБА\ДИПЛОМ СУКА\PetFinder\PetFinder.Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+B:\УЧЕБА\ДИПЛОМ СУКА\PetFinder\PetFinder.Domain\bin\Debug\System.Web.WebPages.Razor.xml
+B:\УЧЕБА\ДИПЛОМ СУКА\PetFinder\PetFinder.Domain\obj\Debug\PetFinder.Domain.csproj.CoreCompileInputs.cache
+B:\УЧЕБА\ДИПЛОМ СУКА\PetFinder\PetFinder.Domain\obj\Debug\PetFinder.Domain.csproj.CopyComplete
+B:\УЧЕБА\ДИПЛОМ СУКА\PetFinder\PetFinder.Domain\obj\Debug\PetFinder.Domain.dll
+B:\УЧЕБА\ДИПЛОМ СУКА\PetFinder\PetFinder.Domain\obj\Debug\PetFinder.Domain.pdb
+B:\УЧЕБА\ДИПЛОМ СУКА\PetFinder\PetFinder.Domain\bin\Debug\PetFinder.Domain.dll.config
+B:\УЧЕБА\ДИПЛОМ СУКА\PetFinder\PetFinder.Domain\bin\Debug\EntityFramework.dll
+B:\УЧЕБА\ДИПЛОМ СУКА\PetFinder\PetFinder.Domain\bin\Debug\EntityFramework.SqlServer.dll
+B:\УЧЕБА\ДИПЛОМ СУКА\PetFinder\PetFinder.Domain\bin\Debug\EntityFramework.xml
+B:\УЧЕБА\ДИПЛОМ СУКА\PetFinder\PetFinder.Domain\bin\Debug\EntityFramework.SqlServer.xml
+B:\УЧЕБА\ДИПЛОМ СУКА\PetFinder\PetFinder.Domain\bin\Debug\BouncyCastle.Crypto.dll
+B:\УЧЕБА\ДИПЛОМ СУКА\PetFinder\PetFinder.Domain\bin\Debug\MailKit.dll
+B:\УЧЕБА\ДИПЛОМ СУКА\PetFinder\PetFinder.Domain\bin\Debug\MimeKit.dll
+B:\УЧЕБА\ДИПЛОМ СУКА\PetFinder\PetFinder.Domain\bin\Debug\System.Buffers.dll
+B:\УЧЕБА\ДИПЛОМ СУКА\PetFinder\PetFinder.Domain\bin\Debug\BouncyCastle.Crypto.xml
+B:\УЧЕБА\ДИПЛОМ СУКА\PetFinder\PetFinder.Domain\bin\Debug\MailKit.pdb
+B:\УЧЕБА\ДИПЛОМ СУКА\PetFinder\PetFinder.Domain\bin\Debug\MailKit.xml
+B:\УЧЕБА\ДИПЛОМ СУКА\PetFinder\PetFinder.Domain\bin\Debug\MimeKit.pdb
+B:\УЧЕБА\ДИПЛОМ СУКА\PetFinder\PetFinder.Domain\bin\Debug\MimeKit.xml
+B:\УЧЕБА\ДИПЛОМ СУКА\PetFinder\PetFinder.Domain\bin\Debug\System.Buffers.xml
+B:\УЧЕБА\ДИПЛОМ СУКА\PetFinder\PetFinder.Domain\obj\Debug\PetFinder.Domain.csprojAssemblyReference.cache
+B:\УЧЕБА\ДИПЛОМ\PetFinder\PetFinder.Domain\bin\Debug\PetFinder.Domain.dll.config
+B:\УЧЕБА\ДИПЛОМ\PetFinder\PetFinder.Domain\bin\Debug\PetFinder.Domain.dll
+B:\УЧЕБА\ДИПЛОМ\PetFinder\PetFinder.Domain\bin\Debug\PetFinder.Domain.pdb
+B:\УЧЕБА\ДИПЛОМ\PetFinder\PetFinder.Domain\bin\Debug\BouncyCastle.Crypto.dll
+B:\УЧЕБА\ДИПЛОМ\PetFinder\PetFinder.Domain\bin\Debug\EntityFramework.dll
+B:\УЧЕБА\ДИПЛОМ\PetFinder\PetFinder.Domain\bin\Debug\EntityFramework.SqlServer.dll
+B:\УЧЕБА\ДИПЛОМ\PetFinder\PetFinder.Domain\bin\Debug\MailKit.dll
+B:\УЧЕБА\ДИПЛОМ\PetFinder\PetFinder.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+B:\УЧЕБА\ДИПЛОМ\PetFinder\PetFinder.Domain\bin\Debug\MimeKit.dll
+B:\УЧЕБА\ДИПЛОМ\PetFinder\PetFinder.Domain\bin\Debug\System.Buffers.dll
+B:\УЧЕБА\ДИПЛОМ\PetFinder\PetFinder.Domain\bin\Debug\System.Web.Helpers.dll
+B:\УЧЕБА\ДИПЛОМ\PetFinder\PetFinder.Domain\bin\Debug\System.Web.Mvc.dll
+B:\УЧЕБА\ДИПЛОМ\PetFinder\PetFinder.Domain\bin\Debug\System.Web.Razor.dll
+B:\УЧЕБА\ДИПЛОМ\PetFinder\PetFinder.Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+B:\УЧЕБА\ДИПЛОМ\PetFinder\PetFinder.Domain\bin\Debug\System.Web.WebPages.dll
+B:\УЧЕБА\ДИПЛОМ\PetFinder\PetFinder.Domain\bin\Debug\System.Web.WebPages.Razor.dll
+B:\УЧЕБА\ДИПЛОМ\PetFinder\PetFinder.Domain\bin\Debug\BouncyCastle.Crypto.xml
+B:\УЧЕБА\ДИПЛОМ\PetFinder\PetFinder.Domain\bin\Debug\EntityFramework.xml
+B:\УЧЕБА\ДИПЛОМ\PetFinder\PetFinder.Domain\bin\Debug\EntityFramework.SqlServer.xml
+B:\УЧЕБА\ДИПЛОМ\PetFinder\PetFinder.Domain\bin\Debug\MailKit.pdb
+B:\УЧЕБА\ДИПЛОМ\PetFinder\PetFinder.Domain\bin\Debug\MailKit.xml
+B:\УЧЕБА\ДИПЛОМ\PetFinder\PetFinder.Domain\bin\Debug\MimeKit.pdb
+B:\УЧЕБА\ДИПЛОМ\PetFinder\PetFinder.Domain\bin\Debug\MimeKit.xml
+B:\УЧЕБА\ДИПЛОМ\PetFinder\PetFinder.Domain\bin\Debug\System.Buffers.xml
+B:\УЧЕБА\ДИПЛОМ\PetFinder\PetFinder.Domain\bin\Debug\System.Web.Helpers.xml
+B:\УЧЕБА\ДИПЛОМ\PetFinder\PetFinder.Domain\bin\Debug\System.Web.Mvc.xml
+B:\УЧЕБА\ДИПЛОМ\PetFinder\PetFinder.Domain\bin\Debug\System.Web.Razor.xml
+B:\УЧЕБА\ДИПЛОМ\PetFinder\PetFinder.Domain\bin\Debug\System.Web.WebPages.xml
+B:\УЧЕБА\ДИПЛОМ\PetFinder\PetFinder.Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+B:\УЧЕБА\ДИПЛОМ\PetFinder\PetFinder.Domain\bin\Debug\System.Web.WebPages.Razor.xml
+B:\УЧЕБА\ДИПЛОМ\PetFinder\PetFinder.Domain\obj\Debug\PetFinder.Domain.csproj.CoreCompileInputs.cache
+B:\УЧЕБА\ДИПЛОМ\PetFinder\PetFinder.Domain\obj\Debug\PetFinder.Domain.csproj.CopyComplete
+B:\УЧЕБА\ДИПЛОМ\PetFinder\PetFinder.Domain\obj\Debug\PetFinder.Domain.dll
+B:\УЧЕБА\ДИПЛОМ\PetFinder\PetFinder.Domain\obj\Debug\PetFinder.Domain.pdb

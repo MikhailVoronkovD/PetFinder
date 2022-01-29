@@ -1,0 +1,18 @@
+﻿@using PetFinder.WebUI.Models
+@using PetFinder.WebUI.HtmlHelpers
+@model AdvertisementsListViewModel
+
+@{
+    ViewBag.Title = "PetFinder Assistant";
+}
+
+@foreach (var p in @Model.Advertisements)
+{
+    @Html.Partial("AdvertisementSummary", p)
+}
+
+<div class="btn-group pull-right">
+    @Html.PageLinks(Model.PagingInfo, x => Url.Action("List", 
+    new { page = x, category = Model.CurrentCategory }))
+</div>
+

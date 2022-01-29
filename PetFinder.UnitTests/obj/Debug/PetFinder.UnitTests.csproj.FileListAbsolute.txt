@@ -1,0 +1,134 @@
+B:\УЧЕБА\ДИПЛОМ СУКА\PetFinder\PetFinder.UnitTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+B:\УЧЕБА\ДИПЛОМ СУКА\PetFinder\PetFinder.UnitTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+B:\УЧЕБА\ДИПЛОМ СУКА\PetFinder\PetFinder.UnitTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+B:\УЧЕБА\ДИПЛОМ СУКА\PetFinder\PetFinder.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+B:\УЧЕБА\ДИПЛОМ СУКА\PetFinder\PetFinder.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+B:\УЧЕБА\ДИПЛОМ СУКА\PetFinder\PetFinder.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+B:\УЧЕБА\ДИПЛОМ СУКА\PetFinder\PetFinder.UnitTests\bin\Debug\PetFinder.UnitTests.dll.config
+B:\УЧЕБА\ДИПЛОМ СУКА\PetFinder\PetFinder.UnitTests\bin\Debug\PetFinder.UnitTests.dll
+B:\УЧЕБА\ДИПЛОМ СУКА\PetFinder\PetFinder.UnitTests\bin\Debug\PetFinder.UnitTests.pdb
+B:\УЧЕБА\ДИПЛОМ СУКА\PetFinder\PetFinder.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+B:\УЧЕБА\ДИПЛОМ СУКА\PetFinder\PetFinder.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+B:\УЧЕБА\ДИПЛОМ СУКА\PetFinder\PetFinder.UnitTests\bin\Debug\Microsoft.Web.Infrastructure.dll
+B:\УЧЕБА\ДИПЛОМ СУКА\PetFinder\PetFinder.UnitTests\bin\Debug\Moq.dll
+B:\УЧЕБА\ДИПЛОМ СУКА\PetFinder\PetFinder.UnitTests\bin\Debug\Ninject.dll
+B:\УЧЕБА\ДИПЛОМ СУКА\PetFinder\PetFinder.UnitTests\bin\Debug\Ninject.Web.Common.dll
+B:\УЧЕБА\ДИПЛОМ СУКА\PetFinder\PetFinder.UnitTests\bin\Debug\Ninject.Web.Mvc.dll
+B:\УЧЕБА\ДИПЛОМ СУКА\PetFinder\PetFinder.UnitTests\bin\Debug\PetFinder.Domain.dll
+B:\УЧЕБА\ДИПЛОМ СУКА\PetFinder\PetFinder.UnitTests\bin\Debug\PetFinder.WebUI.dll
+B:\УЧЕБА\ДИПЛОМ СУКА\PetFinder\PetFinder.UnitTests\bin\Debug\System.Web.Helpers.dll
+B:\УЧЕБА\ДИПЛОМ СУКА\PetFinder\PetFinder.UnitTests\bin\Debug\System.Web.Mvc.dll
+B:\УЧЕБА\ДИПЛОМ СУКА\PetFinder\PetFinder.UnitTests\bin\Debug\System.Web.Razor.dll
+B:\УЧЕБА\ДИПЛОМ СУКА\PetFinder\PetFinder.UnitTests\bin\Debug\System.Web.WebPages.Deployment.dll
+B:\УЧЕБА\ДИПЛОМ СУКА\PetFinder\PetFinder.UnitTests\bin\Debug\System.Web.WebPages.dll
+B:\УЧЕБА\ДИПЛОМ СУКА\PetFinder\PetFinder.UnitTests\bin\Debug\System.Web.WebPages.Razor.dll
+B:\УЧЕБА\ДИПЛОМ СУКА\PetFinder\PetFinder.UnitTests\bin\Debug\WebActivator.dll
+B:\УЧЕБА\ДИПЛОМ СУКА\PetFinder\PetFinder.UnitTests\bin\Debug\PetFinder.Domain.pdb
+B:\УЧЕБА\ДИПЛОМ СУКА\PetFinder\PetFinder.UnitTests\bin\Debug\PetFinder.WebUI.pdb
+B:\УЧЕБА\ДИПЛОМ СУКА\PetFinder\PetFinder.UnitTests\bin\Debug\PetFinder.WebUI.dll.config
+B:\УЧЕБА\ДИПЛОМ СУКА\PetFinder\PetFinder.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+B:\УЧЕБА\ДИПЛОМ СУКА\PetFinder\PetFinder.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+B:\УЧЕБА\ДИПЛОМ СУКА\PetFinder\PetFinder.UnitTests\bin\Debug\Moq.xml
+B:\УЧЕБА\ДИПЛОМ СУКА\PetFinder\PetFinder.UnitTests\bin\Debug\Ninject.pdb
+B:\УЧЕБА\ДИПЛОМ СУКА\PetFinder\PetFinder.UnitTests\bin\Debug\Ninject.xml
+B:\УЧЕБА\ДИПЛОМ СУКА\PetFinder\PetFinder.UnitTests\bin\Debug\Ninject.Web.Common.pdb
+B:\УЧЕБА\ДИПЛОМ СУКА\PetFinder\PetFinder.UnitTests\bin\Debug\Ninject.Web.Common.xml
+B:\УЧЕБА\ДИПЛОМ СУКА\PetFinder\PetFinder.UnitTests\bin\Debug\Ninject.Web.Mvc.pdb
+B:\УЧЕБА\ДИПЛОМ СУКА\PetFinder\PetFinder.UnitTests\bin\Debug\Ninject.Web.Mvc.xml
+B:\УЧЕБА\ДИПЛОМ СУКА\PetFinder\PetFinder.UnitTests\bin\Debug\System.Web.Helpers.xml
+B:\УЧЕБА\ДИПЛОМ СУКА\PetFinder\PetFinder.UnitTests\bin\Debug\System.Web.Mvc.xml
+B:\УЧЕБА\ДИПЛОМ СУКА\PetFinder\PetFinder.UnitTests\bin\Debug\System.Web.Razor.xml
+B:\УЧЕБА\ДИПЛОМ СУКА\PetFinder\PetFinder.UnitTests\bin\Debug\System.Web.WebPages.xml
+B:\УЧЕБА\ДИПЛОМ СУКА\PetFinder\PetFinder.UnitTests\bin\Debug\System.Web.WebPages.Deployment.xml
+B:\УЧЕБА\ДИПЛОМ СУКА\PetFinder\PetFinder.UnitTests\bin\Debug\System.Web.WebPages.Razor.xml
+B:\УЧЕБА\ДИПЛОМ СУКА\PetFinder\PetFinder.UnitTests\obj\Debug\PetFinder.UnitTests.csprojAssemblyReference.cache
+B:\УЧЕБА\ДИПЛОМ СУКА\PetFinder\PetFinder.UnitTests\obj\Debug\PetFinder.UnitTests.csproj.CoreCompileInputs.cache
+B:\УЧЕБА\ДИПЛОМ СУКА\PetFinder\PetFinder.UnitTests\obj\Debug\PetFinder.UnitTests.csproj.CopyComplete
+B:\УЧЕБА\ДИПЛОМ СУКА\PetFinder\PetFinder.UnitTests\obj\Debug\PetFinder.UnitTests.dll
+B:\УЧЕБА\ДИПЛОМ СУКА\PetFinder\PetFinder.UnitTests\obj\Debug\PetFinder.UnitTests.pdb
+B:\УЧЕБА\ДИПЛОМ СУКА\PetFinder\PetFinder.UnitTests\bin\Debug\EntityFramework.dll
+B:\УЧЕБА\ДИПЛОМ СУКА\PetFinder\PetFinder.UnitTests\bin\Debug\PetFinder.Domain.dll.config
+B:\УЧЕБА\ДИПЛОМ СУКА\PetFinder\PetFinder.UnitTests\bin\Debug\EntityFramework.xml
+B:\УЧЕБА\ДИПЛОМ СУКА\PetFinder\PetFinder.UnitTests\bin\Debug\ru\System.Web.Helpers.resources.dll
+B:\УЧЕБА\ДИПЛОМ СУКА\PetFinder\PetFinder.UnitTests\bin\Debug\ru\System.Web.Mvc.resources.dll
+B:\УЧЕБА\ДИПЛОМ СУКА\PetFinder\PetFinder.UnitTests\bin\Debug\ru\System.Web.Razor.resources.dll
+B:\УЧЕБА\ДИПЛОМ СУКА\PetFinder\PetFinder.UnitTests\bin\Debug\ru\System.Web.WebPages.resources.dll
+B:\УЧЕБА\ДИПЛОМ СУКА\PetFinder\PetFinder.UnitTests\bin\Debug\ru\System.Web.WebPages.Deployment.resources.dll
+B:\УЧЕБА\ДИПЛОМ СУКА\PetFinder\PetFinder.UnitTests\bin\Debug\ru\System.Web.WebPages.Razor.resources.dll
+B:\УЧЕБА\ДИПЛОМ СУКА\PetFinder\PetFinder.UnitTests\bin\Debug\MimeKit.dll
+B:\УЧЕБА\ДИПЛОМ СУКА\PetFinder\PetFinder.UnitTests\bin\Debug\MailKit.dll
+B:\УЧЕБА\ДИПЛОМ СУКА\PetFinder\PetFinder.UnitTests\bin\Debug\BouncyCastle.Crypto.dll
+B:\УЧЕБА\ДИПЛОМ СУКА\PetFinder\PetFinder.UnitTests\bin\Debug\System.Buffers.dll
+B:\УЧЕБА\ДИПЛОМ СУКА\PetFinder\PetFinder.UnitTests\bin\Debug\MimeKit.pdb
+B:\УЧЕБА\ДИПЛОМ СУКА\PetFinder\PetFinder.UnitTests\bin\Debug\MimeKit.xml
+B:\УЧЕБА\ДИПЛОМ СУКА\PetFinder\PetFinder.UnitTests\bin\Debug\MailKit.pdb
+B:\УЧЕБА\ДИПЛОМ СУКА\PetFinder\PetFinder.UnitTests\bin\Debug\MailKit.xml
+B:\УЧЕБА\ДИПЛОМ СУКА\PetFinder\PetFinder.UnitTests\bin\Debug\BouncyCastle.Crypto.xml
+B:\УЧЕБА\ДИПЛОМ СУКА\PetFinder\PetFinder.UnitTests\bin\Debug\System.Buffers.xml
+B:\УЧЕБА\ДИПЛОМ\PetFinder\PetFinder.UnitTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+B:\УЧЕБА\ДИПЛОМ\PetFinder\PetFinder.UnitTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+B:\УЧЕБА\ДИПЛОМ\PetFinder\PetFinder.UnitTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+B:\УЧЕБА\ДИПЛОМ\PetFinder\PetFinder.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+B:\УЧЕБА\ДИПЛОМ\PetFinder\PetFinder.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+B:\УЧЕБА\ДИПЛОМ\PetFinder\PetFinder.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+B:\УЧЕБА\ДИПЛОМ\PetFinder\PetFinder.UnitTests\bin\Debug\PetFinder.UnitTests.dll.config
+B:\УЧЕБА\ДИПЛОМ\PetFinder\PetFinder.UnitTests\bin\Debug\PetFinder.UnitTests.dll
+B:\УЧЕБА\ДИПЛОМ\PetFinder\PetFinder.UnitTests\bin\Debug\PetFinder.UnitTests.pdb
+B:\УЧЕБА\ДИПЛОМ\PetFinder\PetFinder.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+B:\УЧЕБА\ДИПЛОМ\PetFinder\PetFinder.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+B:\УЧЕБА\ДИПЛОМ\PetFinder\PetFinder.UnitTests\bin\Debug\Microsoft.Web.Infrastructure.dll
+B:\УЧЕБА\ДИПЛОМ\PetFinder\PetFinder.UnitTests\bin\Debug\Moq.dll
+B:\УЧЕБА\ДИПЛОМ\PetFinder\PetFinder.UnitTests\bin\Debug\Ninject.dll
+B:\УЧЕБА\ДИПЛОМ\PetFinder\PetFinder.UnitTests\bin\Debug\Ninject.Web.Common.dll
+B:\УЧЕБА\ДИПЛОМ\PetFinder\PetFinder.UnitTests\bin\Debug\Ninject.Web.Mvc.dll
+B:\УЧЕБА\ДИПЛОМ\PetFinder\PetFinder.UnitTests\bin\Debug\PetFinder.Domain.dll
+B:\УЧЕБА\ДИПЛОМ\PetFinder\PetFinder.UnitTests\bin\Debug\PetFinder.WebUI.dll
+B:\УЧЕБА\ДИПЛОМ\PetFinder\PetFinder.UnitTests\bin\Debug\System.Web.Helpers.dll
+B:\УЧЕБА\ДИПЛОМ\PetFinder\PetFinder.UnitTests\bin\Debug\System.Web.Mvc.dll
+B:\УЧЕБА\ДИПЛОМ\PetFinder\PetFinder.UnitTests\bin\Debug\System.Web.Razor.dll
+B:\УЧЕБА\ДИПЛОМ\PetFinder\PetFinder.UnitTests\bin\Debug\System.Web.WebPages.Deployment.dll
+B:\УЧЕБА\ДИПЛОМ\PetFinder\PetFinder.UnitTests\bin\Debug\System.Web.WebPages.dll
+B:\УЧЕБА\ДИПЛОМ\PetFinder\PetFinder.UnitTests\bin\Debug\System.Web.WebPages.Razor.dll
+B:\УЧЕБА\ДИПЛОМ\PetFinder\PetFinder.UnitTests\bin\Debug\WebActivator.dll
+B:\УЧЕБА\ДИПЛОМ\PetFinder\PetFinder.UnitTests\bin\Debug\EntityFramework.dll
+B:\УЧЕБА\ДИПЛОМ\PetFinder\PetFinder.UnitTests\bin\Debug\MimeKit.dll
+B:\УЧЕБА\ДИПЛОМ\PetFinder\PetFinder.UnitTests\bin\Debug\MailKit.dll
+B:\УЧЕБА\ДИПЛОМ\PetFinder\PetFinder.UnitTests\bin\Debug\BouncyCastle.Crypto.dll
+B:\УЧЕБА\ДИПЛОМ\PetFinder\PetFinder.UnitTests\bin\Debug\System.Buffers.dll
+B:\УЧЕБА\ДИПЛОМ\PetFinder\PetFinder.UnitTests\bin\Debug\PetFinder.Domain.pdb
+B:\УЧЕБА\ДИПЛОМ\PetFinder\PetFinder.UnitTests\bin\Debug\PetFinder.Domain.dll.config
+B:\УЧЕБА\ДИПЛОМ\PetFinder\PetFinder.UnitTests\bin\Debug\PetFinder.WebUI.pdb
+B:\УЧЕБА\ДИПЛОМ\PetFinder\PetFinder.UnitTests\bin\Debug\PetFinder.WebUI.dll.config
+B:\УЧЕБА\ДИПЛОМ\PetFinder\PetFinder.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+B:\УЧЕБА\ДИПЛОМ\PetFinder\PetFinder.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+B:\УЧЕБА\ДИПЛОМ\PetFinder\PetFinder.UnitTests\bin\Debug\Moq.xml
+B:\УЧЕБА\ДИПЛОМ\PetFinder\PetFinder.UnitTests\bin\Debug\Ninject.pdb
+B:\УЧЕБА\ДИПЛОМ\PetFinder\PetFinder.UnitTests\bin\Debug\Ninject.xml
+B:\УЧЕБА\ДИПЛОМ\PetFinder\PetFinder.UnitTests\bin\Debug\Ninject.Web.Common.pdb
+B:\УЧЕБА\ДИПЛОМ\PetFinder\PetFinder.UnitTests\bin\Debug\Ninject.Web.Common.xml
+B:\УЧЕБА\ДИПЛОМ\PetFinder\PetFinder.UnitTests\bin\Debug\Ninject.Web.Mvc.pdb
+B:\УЧЕБА\ДИПЛОМ\PetFinder\PetFinder.UnitTests\bin\Debug\Ninject.Web.Mvc.xml
+B:\УЧЕБА\ДИПЛОМ\PetFinder\PetFinder.UnitTests\bin\Debug\System.Web.Helpers.xml
+B:\УЧЕБА\ДИПЛОМ\PetFinder\PetFinder.UnitTests\bin\Debug\System.Web.Mvc.xml
+B:\УЧЕБА\ДИПЛОМ\PetFinder\PetFinder.UnitTests\bin\Debug\System.Web.Razor.xml
+B:\УЧЕБА\ДИПЛОМ\PetFinder\PetFinder.UnitTests\bin\Debug\System.Web.WebPages.xml
+B:\УЧЕБА\ДИПЛОМ\PetFinder\PetFinder.UnitTests\bin\Debug\System.Web.WebPages.Deployment.xml
+B:\УЧЕБА\ДИПЛОМ\PetFinder\PetFinder.UnitTests\bin\Debug\System.Web.WebPages.Razor.xml
+B:\УЧЕБА\ДИПЛОМ\PetFinder\PetFinder.UnitTests\bin\Debug\EntityFramework.xml
+B:\УЧЕБА\ДИПЛОМ\PetFinder\PetFinder.UnitTests\bin\Debug\MimeKit.pdb
+B:\УЧЕБА\ДИПЛОМ\PetFinder\PetFinder.UnitTests\bin\Debug\MimeKit.xml
+B:\УЧЕБА\ДИПЛОМ\PetFinder\PetFinder.UnitTests\bin\Debug\MailKit.pdb
+B:\УЧЕБА\ДИПЛОМ\PetFinder\PetFinder.UnitTests\bin\Debug\MailKit.xml
+B:\УЧЕБА\ДИПЛОМ\PetFinder\PetFinder.UnitTests\bin\Debug\BouncyCastle.Crypto.xml
+B:\УЧЕБА\ДИПЛОМ\PetFinder\PetFinder.UnitTests\bin\Debug\System.Buffers.xml
+B:\УЧЕБА\ДИПЛОМ\PetFinder\PetFinder.UnitTests\bin\Debug\ru\System.Web.Helpers.resources.dll
+B:\УЧЕБА\ДИПЛОМ\PetFinder\PetFinder.UnitTests\bin\Debug\ru\System.Web.Mvc.resources.dll
+B:\УЧЕБА\ДИПЛОМ\PetFinder\PetFinder.UnitTests\bin\Debug\ru\System.Web.Razor.resources.dll
+B:\УЧЕБА\ДИПЛОМ\PetFinder\PetFinder.UnitTests\bin\Debug\ru\System.Web.WebPages.resources.dll
+B:\УЧЕБА\ДИПЛОМ\PetFinder\PetFinder.UnitTests\bin\Debug\ru\System.Web.WebPages.Deployment.resources.dll
+B:\УЧЕБА\ДИПЛОМ\PetFinder\PetFinder.UnitTests\bin\Debug\ru\System.Web.WebPages.Razor.resources.dll
+B:\УЧЕБА\ДИПЛОМ\PetFinder\PetFinder.UnitTests\obj\Debug\PetFinder.UnitTests.csprojAssemblyReference.cache
+B:\УЧЕБА\ДИПЛОМ\PetFinder\PetFinder.UnitTests\obj\Debug\PetFinder.UnitTests.csproj.CoreCompileInputs.cache
+B:\УЧЕБА\ДИПЛОМ\PetFinder\PetFinder.UnitTests\obj\Debug\PetFinder.UnitTests.csproj.CopyComplete
+B:\УЧЕБА\ДИПЛОМ\PetFinder\PetFinder.UnitTests\obj\Debug\PetFinder.UnitTests.dll
+B:\УЧЕБА\ДИПЛОМ\PetFinder\PetFinder.UnitTests\obj\Debug\PetFinder.UnitTests.pdb

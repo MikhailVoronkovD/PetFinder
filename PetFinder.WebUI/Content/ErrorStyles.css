@@ -1,0 +1,25 @@
+﻿span.error {
+    color: red;
+}
+
+.field-validation-error {
+    color: darkred;
+}
+
+.field-validation-valid {
+    display: none;
+}
+
+.input-validation-error {
+    border: 1px solid #f00;
+    background-color: #f00;
+}
+
+.validation-summary-errors {
+    font-weight: bold;
+    color: #f00;
+}
+
+.validation-summary-valid {
+    display: none;
+}
